@@ -9,6 +9,8 @@ dependencies:
   - cartopy
   - matplotlib
   - pip
+  - jupyter
+  - ipykernel
   - pip:
       - earthaccess
 # how to use:
