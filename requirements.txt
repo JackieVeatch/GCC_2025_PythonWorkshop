@@ -1,0 +1,6 @@
+numpy
+xarray
+scipy
+cartopy
+matplotlib
+earthaccess
