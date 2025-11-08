@@ -1,0 +1,16 @@
+name: gcc_pythonworkshop
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - numpy
+  - xarray
+  - scipy
+  - cartopy
+  - matplotlib
+  - pip
+  - pip:
+      - earthaccess
+# how to use:
+# conda env create -f environment.yml
+# conda activate gcc_pythonworkshop
